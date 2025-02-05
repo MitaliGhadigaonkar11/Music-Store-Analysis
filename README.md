@@ -1,7 +1,7 @@
 # Music-Store-Analysis
 A structured SQL analysis on a music store dataset to extract business insights.
 
-##Questions Analyzed
+## Questions Analyzed
 1. Who is the senior-most employee based on job title?
 2. Which countries have the most invoices?
 3. What are the top 3 invoice values?
@@ -13,7 +13,7 @@ A structured SQL analysis on a music store dataset to extract business insights.
 9. What is the total sales revenue for each year?
 10.How do sales compare across different media types (CDs, MP3s, etc.)?
 
-##Project Insights
+## Project Insights
 1. The senior-most employee is determined by the levels attribute in the employee table.
 2. The highest number of invoices comes from a specific country.
 3. The top 3 invoice values reveal the biggest individual purchases.
